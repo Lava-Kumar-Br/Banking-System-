@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_phone.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_phone.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_phone.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_p_in.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\anim\\p_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_userslist.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\userslist.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_arrow.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_history.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\menu\\menu_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_user.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phone.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_history.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_history.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_transfer_history_list.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\transfer_history_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transfer_money.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\activity_transfer_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_history.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sendtouser.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\activity_sendtouser.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_history.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_search.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transfer_money.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\drawable\\transfer_money.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_arrow.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_phone.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_history.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_phone.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\anim\\bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_history.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transfer_history.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\activity_transfer_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_allusers.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\activity_show_allusers.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_userdata.xml.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\layout\\activity_userdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_history.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user.png.flat",
+        "source": "C:\\Users\\hp\\Desktop\\Banking-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\user.png"
+    }
+]
